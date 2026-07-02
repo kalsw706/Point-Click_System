@@ -8,6 +8,12 @@ Rather than focusing only on character movement, the goal was to create a reusab
 
 ---
 
+#Video demo
+
+https://youtu.be/yKuyN5ROG9M?si=Q-2JpE3VTEZ9atC0
+
+
+
 # Features
 
 * Point & Click movement
